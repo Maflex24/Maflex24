@@ -1,8 +1,28 @@
-- 👋 Hi, I’m Gabriel!
-- 👀 I’m interested in music (heavy metal, eurodance, and more, I'm open), motorcycles (most cruisers), and of course programming! 
-- 🌱 I’m currently learning C# and .Net technologies
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">.NET Junior Developer from Lesko, Poland.</h3>
 
-<!---
-Maflex24/Maflex24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## :computer: My technologies
+- C#/.Net
+- Javascript (basics)
+- ASP .Net Core - Web API
+- Entity Framework
+- Git
+- SQL basics
+
+## :briefcase: My projects
+- [Warehouse Scanners API](https://github.com/Maflex24/WarehouseScannersAPI)
+- [Gentleman Parser](https://github.com/Maflex24/GentlemanParseDice-DiscordBot)
+
+## :books: Learning now
+- Design patterns
+
+## :office: Working in
+- Not yet. Want me? :wink:
+
+## :guitar: Hobbies
+- Music (metal, eurodance, synthwave)
+- Playing music (guitar, bass guitar, drums)
+
+## Contacts
+- [Linkedin](https://www.linkedin.com/in/gabriel-szalajko/)
+
